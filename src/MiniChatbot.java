@@ -9,9 +9,11 @@ public class MiniChatbot {
             return "Olá! Como posso te ajudar?";
 
         } else if (usuarioInput.contains("qual é o seu nome")) {
+
             return "Meu nome é MiniChatbot. Mas para os mais próximos é Botzin";
 
         } else if (usuarioInput.contains("como esta voce")) {
+
             return "Estou bem demais, obrigado.";
         } else {
 

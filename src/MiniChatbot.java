@@ -20,12 +20,12 @@ public class MiniChatbot {
 
                 System.out.println("MiniChatbot: Olá! Como posso ajudar você hoje?");
 
-            } else if (usuarioInput.contains("qual é o seu nome")) {
+            } else if (usuarioInput.contains("qual é o seu nome?")) {
 
 
                 System.out.println("MiniChatbot: Meu nome é MiniChatbot.");
 
-            } else if (usuarioInput.contains("como está você")) {
+            } else if (usuarioInput.contains("como está você?")) {
 
                 System.out.println("MiniChatbot: Estou funcionando perfeitamente, obrigado");
 
